@@ -1,0 +1,83 @@
+﻿@model RezervacijaAddViewModel
+
+@{
+    ViewData["Title"] = "Dodaj";
+
+
+}
+
+
+<head>
+    <style>
+        .field-validation-error {
+            color: darkred;
+        }
+    </style>
+</head>
+
+<div class="container">
+    <img src="~/images/bea.PNG" width="100%" />
+    <hr />
+    <div class="form">
+
+        <form asp-action="Snimi">
+            @if (!ViewData.ModelState.IsValid)
+            {
+                <div asp-validation-summary="All" class="alert alert-danger"></div>
+            }
+            <legend style="text-align:center;padding-top:15px; color:purple"> REZERVACIJA TERMINA</legend>
+
+
+
+
+
+            <div class="form-group" style="width:400px;margin-left:300px;">
+                <label asp-for="@Model.DatumRezervacije" class="control-label">Datum: </label>
+                <input type="date" asp-for="@Model.DatumRezervacije" class="form-control" />
+
+            </div>
+
+
+
+            
+
+
+            <div class="form-group" style="width:400px;margin-left:300px;">
+                <label class="control-label">Vrijeme: </label>
+                <br />
+               <select style="width:400px; height:40px;  border: 1px solid #ced4da;border-radius: 0.25rem;" asp-for="@Model.Vrijeme">
+                   @foreach(  var i in  Model.VrijemeList)
+                   {
+                       <option>@i</option>
+                   }
+
+</select>
+            </div>
+
+
+
+
+
+            <div class="form-group" style="width:400px; margin-left:300px;">
+                <label class="control-label">Broj osoba: </label>
+                <input asp-for="@Model.BrojOsoba" class="form-control" />
+            </div>
+
+
+
+            <div class="form-group" style="width:400px; margin-left:300px;">
+                <label asp-for="@Model.UslugeId">Vrsta usluge: </label>
+                <select asp-for="@Model.UslugeId" asp-items="@Model.tipUsluge" class="form-control"></select>
+
+            </div>
+
+            <div class="form-group">
+                <button type="submit" style=" margin-left:300px;" class="btn btn-light">Rezervisi</button>
+            </div>
+
+        </form>
+
+    </div>
+
+   
+</div>

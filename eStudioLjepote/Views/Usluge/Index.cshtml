@@ -1,0 +1,41 @@
+﻿@model UslugaListViewModel
+
+@{
+    var base64 = Convert.ToBase64String(Model.vrsta.Slika);
+    var imgsrc = string.Format("data:image/gif;base64,{0}", base64);
+}
+<img src="@imgsrc" alt="" width="100%" />
+<br />
+<br />
+<img src="~/images/ukras.PNG" style="margin-left:250px; margin-left:470px; " />
+<div class="container ">
+
+
+    <table id="usluge">
+        <thead>
+            <tr style="padding-left:20px;">
+               
+                <th scope="col">Naziv</th>
+                <th scope="col">Cijena</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var usluga in Model.Usluge)
+            {
+                <tr>
+                   
+                    <td>@usluga.Naziv</td>
+                    <td>@usluga.Cijena</td>
+                    <td style="float:right">  <a asp-action="Detalji" asp-controller="Usluge" asp-route-uslugaId="@usluga.Id" class="btn btn-light">Pogledaj vise</a></td>
+                </tr>
+            }
+
+
+
+        </tbody>
+    </table>
+
+
+</div>

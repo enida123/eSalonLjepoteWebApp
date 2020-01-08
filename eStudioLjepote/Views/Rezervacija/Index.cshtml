@@ -1,0 +1,51 @@
+﻿@model  RezervacijeListViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="container">
+    <h2 style="text-align:center">Moje rezervacije</h2>
+   <br />
+    <br />
+    <table id="usluge">
+        <thead>
+            <tr>
+                <th>Status</th>
+                <th></th>
+                <th>Datum dolaska</th>
+                <th>Vrijeme</th>
+                <th> Usluga</th>
+                <th>Broj osoba</th>
+                <th></th>
+               
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var line in Model.rezervacije)
+            {
+            <tr>
+                <td>@line.Status</td>
+               
+                 <td>@line.Napomena</td>
+               
+                
+                <td>@line.DatumRezervacije.ToShortDateString()</td>
+                <td>@line.Vrijeme</td>
+                <td>@line.Usluge.Naziv</td>
+                <td>
+                    @line.BrojOsoba
+                </td>
+                @if (line.Otkazano == false)
+                { 
+                    <td style="float:right">  <a asp-action="Otkazi" asp-controller="Rezervacija" asp-route-Id="@line.Id" class="btn btn-light">Otkazi</a></td>
+                    
+                }
+            </tr>
+            }
+        </tbody>
+      
+    </table>
+
+
+</div>

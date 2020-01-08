@@ -1,0 +1,24 @@
+﻿@model eStudioLjepote.Models.Edukacija
+@{
+    ViewData["Title"] = "EdukacijaPartial";
+}
+
+
+<div class="col-sm-12 col-lg-4">
+    <div class="card" style="width: 18rem;">
+
+        <div class="card-body">
+            <h6 style="float:left" class="card-title">@Model.Naziv</h6>
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Pocetak: @Model.Pocetak</li>
+            <li class="list-group-item">Kraj: @Model.Kraj.ToShortDateString()</li>
+            <li class="list-group-item">Cijena: @Model.Cijena KM</li>
+            <li class="list-group-item">Zaposlenik: @Model.Zaposlenik.Ime  @Model.Zaposlenik.Prezime</li>
+
+        </ul>
+        <div class="card-body">
+            <a asp-action="Prijava"  asp-controller="Edukacije" asp-route-Id="@Model.Id" style="margin-left:40px;"  class="btn btn-light">Prijavi se</a>
+        </div>
+    </div>
+</div>

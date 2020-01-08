@@ -1,0 +1,141 @@
+﻿@using Microsoft.AspNetCore.Http;
+@using eStudioLjepote.Models;
+@using eStudioLjepote.Helper;
+@{
+
+    Klijent klijent = Context.GetLogiraniKorisnik();
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="~/Content/StyleSheet.css" rel="stylesheet" />
+    <link href="~/Content/MojCss.css" rel="stylesheet" />
+    <link href="~/Content/Login.css" rel="stylesheet" />
+   <link  href="~/Content/StarRatingcss.css" rel="stylesheet"/>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <link href="~/lib/bootstrap/dist/css/bootstrap-datepicker.css" />
+    <title>Beauty salon Allure</title>
+
+</head>
+<body>
+    <!-- Navbar top header -->
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-dark" style="height:40px!important;">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <p style="margin-top:10px; color:white;font-family:Calibri;"><i class="fa fa-clock-o" style="color:white;" aria-hidden="true"></i> Mon-Sat: 8.00 to 17.00   </p>
+
+                    </li>
+                    <li class="nav-item active">
+                        <p style="margin-top:10px; padding-left:5px; padding-right:5px; color:white;font-family:Calibri;"> | </p>
+
+                    </li>
+                    <li class="nav-item">
+                        <p style="margin-top:10px;color:white; font-family:Calibri;"> <i style="color:white;" class="fa fa-phone" ; aria-hidden="true"></i>   Call us: (+12)-345-6789</p>
+                    </li>
+
+                </ul>
+
+                <ul class="navbar-nav ">
+                    <li class="nav-item">
+                        <a style="margin-top:10px; color:white;font-size:15px;" href="#"><i class="fa fa-facebook" style="color:white;padding-right:5px;"></i>Follow us on facbook |</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a style="margin-top:10px; color:white;font-size:15px;" href="#"><i class="fa fa-instagram" style="color:white;padding-left:10px;"></i>  Follow us on instgarm</a>
+                    </li>
+                </ul>
+
+            </div>
+
+        </div>
+    </nav>
+
+    <!-- Navbar top header -->
+    <!-- Navbar header -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="#"><img src="~/images/kk.PNG"  style="width:300px;"/></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav mr-auto"></ul>
+
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" asp-controller="Home" asp-action="Index">HOME <span class="sr-only">(current)</span></a>
+                    </li>
+
+
+                    @await Component.InvokeAsync("VrstaUslugeMenu")
+
+                    @await Component.InvokeAsync("VrstaProizvodaMenu")
+
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="ContactUs">KONTAKT</a>
+                    </li>
+                    @if (klijent != null)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Rezervacija" asp-action="Dodaj">REZERVACIJA </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Edukacije" asp-action="Index">EDUKACIJA</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Rezervacija" asp-action="Index">MOJE REZERVACIJE</a>
+                        </li>
+
+                    }
+                    @await Html.PartialAsync("LoginPartial")
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <div class="container body-content" style="padding:50px;">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>
+                &copy;Copyright @DateTime.Now.Year Beauty studio Allure Sarajevo
+
+                <a style="color:black; padding-left:650px; margin-top:0px; " href="#"><i class="fa fa-facebook" style="color:black;"></i></a>
+
+                <a style="color:black;" href="#"><i class="fa fa-instagram" style="color:black;padding-left:10px;"></i> </a>
+
+            </p>
+
+
+
+
+
+        </footer>
+    </div>
+    <script src="~/js/bootstrap.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap-datepicker.min.js"></script>  
+    <script type="text/javascript">
+        $(function () {
+            $('#datetimepicker4').datetimepicker({
+                format: 'L'
+            });
+        });
+    </script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

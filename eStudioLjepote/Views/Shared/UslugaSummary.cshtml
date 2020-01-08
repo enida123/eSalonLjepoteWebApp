@@ -1,0 +1,16 @@
+﻿@model eStudioLjepote.Models.Usluge
+<div class="card" style="width: 18rem;">
+    @{
+        var base64 = Convert.ToBase64String(Model.ImageThumbnail);
+        var imgsrc = string.Format("data:image/gif;base64,{0}", base64);
+    }
+    <img src="@imgsrc" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h3 class="card-title">
+            <a asp-controller="Usluge" asp-action="Detalji" asp-route-uslugaId="@Model.Id">@Model.Naziv</a>
+           
+        </h3>
+        <p class="card-text">@Model.Opis</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+</div>

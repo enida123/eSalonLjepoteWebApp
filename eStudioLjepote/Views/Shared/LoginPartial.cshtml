@@ -1,0 +1,21 @@
+﻿@using Microsoft.AspNetCore.Http;
+@using eStudioLjepote.Models;
+@using eStudioLjepote.Helper;
+
+@{
+    ViewData["Title"] = "LoginPartial";
+    Klijent klijent = Context.GetLogiraniKorisnik();
+}
+@if (klijent == null)
+{
+    <li class="nav-item">
+        <a class="nav-link" asp-controller="Autentifikacija" asp-action="Login">LOGIN</a>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+        <a class="nav-link" asp-controller="Autentifikacija" asp-action="Odjava">LOGOUT</a>
+    </li>
+}
+

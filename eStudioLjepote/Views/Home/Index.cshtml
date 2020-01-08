@@ -1,0 +1,114 @@
+﻿@model UslugeListHomeVM
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@await Html.PartialAsync("Carousel")
+
+
+<br />
+<br />
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-12">
+            <div id="inam" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="container">
+                            <div class="row">
+                                @foreach (var x in Model.PrveUsluge)
+                                {
+
+                                    <div class="col-sm-12 col-lg-4">
+                                        <div class="card" style="width: 20rem;">
+                                            @{
+                                                var base64 = Convert.ToBase64String(x.Slika);
+                                                var imgsrc = string.Format("data:image/gif;base64,{0}", base64);
+                                            }
+                                            <img src="@imgsrc" class="card-img-top" style="padding-right:20px; width:100%;height:140px;" alt="...">
+                                            <h2 class="card-title" style="padding-right:20px">
+                                                <a style="color:palevioletred" asp-controller="Usluge" asp-action="Detalji" asp-route-uslugaId="@x.Id">@x.Naziv</a>
+
+                                            </h2>
+                                            <p class="card-text">@x.Opis</p>
+                                            <a asp-controller="Usluge" style="width:150px; margin-left:50px;" asp-action="Index" asp-route-vrstaId="@x.Id" class="btn btn-light">Pogledaj vise</a>
+                                            <br />
+                                        </div>
+
+                                    </div>
+                                }
+
+                            </div>
+
+                        </div>
+
+
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container">
+                            <div class="row">
+                                @foreach (var x in Model.DrugeUsluge)
+                                {
+
+                                    <div class="col-sm-12 col-lg-4">
+                                        <div class="card" style="width: 20rem;">
+                                            @{
+                                                var base645 = Convert.ToBase64String(x.Slika);
+                                                var imgsrc1 = string.Format("data:image/gif;base64,{0}", base645);
+                                            }
+                                            <img src="@imgsrc1" class="card-img-top" style="padding-right:20px; width:100%;height:140px;" alt="...">
+                                            <h2 class="card-title" style="padding-right:20px">
+                                                <a style="color:palevioletred" asp-controller="Usluge" asp-action="Detalji" asp-route-uslugaId="@x.Id">@x.Naziv</a>
+
+                                            </h2>
+                                            <p class="card-text">@x.Opis</p>
+                                            <a asp-controller="Usluge" style="width:150px; margin-left:50px;" asp-action="Index" asp-route-vrstaId="@x.Id" class="btn btn-light">Pogledaj vise</a>
+                                            <br />
+                                        </div>
+
+                                    </div>
+
+                                
+                                }
+
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+                <a href="#inam" class="carousel-control-prev" data-slide="prev">
+                    <span class="carousel-control-prev-icon"></span>
+                </a>
+                <a href="#inam" class="carousel-control-next" data-slide="next">
+                    <span class="carousel-control-next-icon"></span>
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<img  src="~/images/ukras.PNG" style="margin-left:500px;"/>
+<br />
+<div style="background-color:#c9a5a9;margin-left:15px; border:double white; height:300px;">
+    
+
+    <h5 style="color:white;font-family:Magneto;margin-top:10px;">Dobro došli u Beauty Salon Allure Sarajevo</h5>
+   
+
+    <p style="text-align:left;color:white; margin-top:20px; margin-left:5px; font-weight:bold">
+        Naša inspiracija je ljepota a ljepota se čuva i njeguje. Nasa misija je u revitalizirati i očuvati vase ljepotu i vitalnost.
+        Beaty salon Allure, nasa inspiracija ste vi i ljepota,  kroz tretmane za  relaksaciju, njegu i revitalizaciju vase  ljepote   nasa misija je ispunjena.
+        sim kvalitetne njege svjetski poznatim preparatima, ugodno će vas iznenaditi i naše PRISTUPAČNE CIJENE, prigodni popusti...
+        Za vas smo priredili i druga ugodna iznenađenja, ali njih ćete otkriti dolaskom u naš salon ljepote.
+        Beauty salon Allure na usluzi je damama kroz  tretmane za njegu ženske ljepote  ali i za gospodu tretmanima osmišlljenim samo za njih.
+    </p>
+</div>
+<img src="~/images/ukras.PNG" style="margin-left:500px;" />
+
+

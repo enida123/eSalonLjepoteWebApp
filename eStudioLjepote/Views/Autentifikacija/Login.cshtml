@@ -1,0 +1,49 @@
+﻿@model LoginVM
+
+@{
+
+    string error_poruka = (string)TempData["error_poruka"];
+
+}
+
+<style>
+    .field-validation-error {
+        color: darkred;
+    }
+</style>
+<img src="~/images/ukras.PNG" style="margin-left:250px; margin-left:470px; " />
+<div class="container">
+    <h2 style="text-align:center;color:palevioletred;">Login</h2>
+
+
+    <form asp-action="Login">
+        @if (!ViewData.ModelState.IsValid)
+        {
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+        }
+        <div class="form-group" style="width:400px; margin-left:300px;">
+
+            <input asp-for="Username" class="form-control" placeholder="Username" />
+            <br />
+        </div>
+        <div class="form-group" style="width:400px; margin-left:300px;">
+
+            <input type="password" asp-for="Password" class="form-control" placeholder="Password" />
+        </div>
+
+
+        @if (error_poruka != null)
+        {
+            <div class="has-error" style="width:400px; margin-left:300px;">
+                @error_poruka !
+            </div>
+        }
+        <br />
+        <button style="margin-left:450px;" ; type="submit" class="btn btn-light">Prijavi se</button>
+        
+        <p style="width:400px; margin-left:400px;" class="message">Niste registrovani? <a asp-controller="Autentifikacija" asp-action="Registracija">Registruj se</a></p>
+
+    </form>
+
+</div>
+<img src="~/images/ukras.PNG" style="margin-left:250px; margin-left:470px; " />

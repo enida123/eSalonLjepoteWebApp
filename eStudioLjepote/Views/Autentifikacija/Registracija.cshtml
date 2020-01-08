@@ -1,0 +1,92 @@
+﻿@model AutentifikacijaRegistracijaVM
+
+@{
+
+    string error_poruka = (string)TempData["error_poruka"];
+
+}
+
+<style>
+    .field-validation-error {
+        color: darkred;
+    }
+</style>
+<img src="~/images/ukras.PNG" style="margin-left:250px; margin-left:470px; " />
+<div class="container">
+    <h2 style="text-align:center;color:palevioletred;">Registracija</h2>
+  
+    <form asp-action="Registracija">
+        @if (!ViewData.ModelState.IsValid)
+        {
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+        }
+
+        <div class="form-group" style="width:400px; margin-left:300px;">
+            <div class="form-row">
+                <div class="col-md-6">
+                    <input asp-for="Ime" class="form-control" placeholder="Ime" />
+
+                    <br />
+                </div>
+
+                <div class="col-md-6">
+
+                    <input asp-for="Prezime" class="form-control" placeholder="Prezime" />
+
+                    <br />
+                </div>
+            </div>
+        </div>
+        <div class="form-group" style="width:400px; margin-left:300px;">
+
+            <input asp-for="Email" class="form-control" placeholder="Email" />
+
+            <br />
+        </div>
+        <div class="form-group" style="width:400px; margin-left:300px;">
+
+            <input asp-for="BrojTelefona" class="form-control" placeholder="Broj telefona" />
+
+            <br />
+        </div>
+        <div class="form-group" style="width:400px; margin-left:300px;">
+
+            <input asp-for="Spol" class="form-control" placeholder="Spol" />
+
+            <br />
+        </div>
+        <div class="form-group" style="width:400px; margin-left:300px;">
+            <label asp-for="GradID">Grad</label>
+
+            <select class="form-control" asp-for="GradID" asp-items="@Model.Gradovi">
+                <option>Odaberi grad</option>
+
+            </select>
+
+            <br />
+            </div>
+            <div class="form-group" style="width:400px; margin-left:300px;">
+
+                <input asp-for="KorisnickoIme" class="form-control" placeholder="Username" />
+                <br />
+            </div>
+            <div class="form-group" style="width:400px; margin-left:300px;">
+
+                <input type="password" asp-for="Password" class="form-control" placeholder="Password" />
+                <br />
+            </div>
+
+
+            <button style="margin-left:450px;" ; type="submit" class="btn btn-light">Registruj se</button>
+
+
+    </form>
+    @if (error_poruka != null)
+    {
+        <br />
+        <div class="has-error">
+            @error_poruka !
+        </div>
+    }
+</div>
+<img src="~/images/ukras.PNG" style="margin-left:250px; margin-left:470px; " />

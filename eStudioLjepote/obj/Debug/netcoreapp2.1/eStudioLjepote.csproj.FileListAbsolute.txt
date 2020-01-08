@@ -1,0 +1,188 @@
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.deps.json
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.runtimeconfig.json
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.runtimeconfig.dev.json
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.dll
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.pdb
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.Views.dll
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.Views.pdb
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.csprojAssemblyReference.cache
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.csproj.CoreCompileInputs.cache
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorAssemblyInfo.cache
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorAssemblyInfo.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.AssemblyInfoInputs.cache
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.AssemblyInfo.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.TagHelpers.input.cache
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.TagHelpers.output.cache
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorCoreGenerate.cache
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorTargetAssemblyInfo.cache
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorTargetAssemblyInfo.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.Views.pdb
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.dll
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.pdb
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.csproj.CopyComplete
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepoteData.dll
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepoteData.pdb
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Carousel.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\VrstaUslugeSummary.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\VrstaUsluge\Index.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Usluge\Index.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\UslugaSummary.g.cshtml.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\VrstaUslugeMenu\Default.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.deps.json
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.runtimeconfig.json
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.runtimeconfig.dev.json
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.dll
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.pdb
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.Views.dll
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.Views.pdb
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepoteData.dll
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepoteData.pdb
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.csprojAssemblyReference.cache
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.csproj.CoreCompileInputs.cache
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorAssemblyInfo.cache
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorAssemblyInfo.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.AssemblyInfoInputs.cache
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.AssemblyInfo.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.TagHelpers.input.cache
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.TagHelpers.output.cache
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorCoreGenerate.cache
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\VrstaUslugeMenu\Default.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\UslugaSummary.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Usluge\Index.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorTargetAssemblyInfo.cache
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorTargetAssemblyInfo.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.Views.pdb
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.csproj.CopyComplete
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.dll
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.pdb
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Carousel.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContactUs.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacija\Dodaj.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Autentifikacija\Login.g.cshtml.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Autentifikacija\Registracija.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.deps.json
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.runtimeconfig.json
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.runtimeconfig.dev.json
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.dll
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.pdb
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.Views.dll
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.Views.pdb
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepoteData.dll
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepoteData.pdb
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.csprojAssemblyReference.cache
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.csproj.CoreCompileInputs.cache
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorAssemblyInfo.cache
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorAssemblyInfo.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.AssemblyInfoInputs.cache
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.AssemblyInfo.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.TagHelpers.input.cache
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.TagHelpers.output.cache
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorCoreGenerate.cache
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Autentifikacija\Login.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Autentifikacija\Registracija.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContactUs.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacija\Dodaj.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Carousel.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\VrstaUslugeMenu\Default.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LoginPartial.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\UslugaSummary.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Usluge\Index.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorTargetAssemblyInfo.cache
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorTargetAssemblyInfo.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.Views.pdb
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.csproj.CopyComplete
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.dll
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.pdb
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacija\Index.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Usluge\Detalji.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PreporuceneUslugeSummary.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\UslugeCarousel.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\EdukacijaPartial.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Edukacije\Index.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\VrstaProizvodaMenu\Default.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Proizvodi\Index.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProizvodiPartial.g.cshtml.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Edukacije\Prijava.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.deps.json
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.runtimeconfig.json
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.runtimeconfig.dev.json
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.dll
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.pdb
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.Views.dll
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepote.Views.pdb
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepoteData.dll
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\bin\Debug\netcoreapp2.1\eStudioLjepoteData.pdb
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.csprojAssemblyReference.cache
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.csproj.CoreCompileInputs.cache
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorAssemblyInfo.cache
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorAssemblyInfo.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.AssemblyInfoInputs.cache
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.AssemblyInfo.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.TagHelpers.input.cache
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.TagHelpers.output.cache
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorCoreGenerate.cache
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Autentifikacija\Login.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Autentifikacija\Registracija.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Edukacije\Index.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Edukacije\Prijava.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContactUs.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Proizvodi\Index.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacija\Dodaj.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacija\Index.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Carousel.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\VrstaProizvodaMenu\Default.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\VrstaUslugeMenu\Default.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\EdukacijaPartial.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LoginPartial.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PreporuceneUslugeSummary.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProizvodiPartial.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\UslugaSummary.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\UslugeCarousel.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Usluge\Detalji.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\Usluge\Index.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorTargetAssemblyInfo.cache
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.RazorTargetAssemblyInfo.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.Views.pdb
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.csproj.CopyComplete
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.dll
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepote\obj\Debug\netcoreapp2.1\eStudioLjepote.pdb

@@ -1,0 +1,36 @@
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepoteData\bin\Debug\netstandard2.0\eStudioLjepoteData.deps.json
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepoteData\bin\Debug\netstandard2.0\eStudioLjepoteData.dll
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepoteData\bin\Debug\netstandard2.0\eStudioLjepoteData.pdb
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.csprojAssemblyReference.cache
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.csproj.CoreCompileInputs.cache
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.AssemblyInfoInputs.cache
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.AssemblyInfo.cs
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.dll
+C:\Users\enida\source\repos\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.pdb
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepoteData\bin\Debug\netstandard2.0\eStudioLjepoteData.deps.json
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepoteData\bin\Debug\netstandard2.0\eStudioLjepoteData.dll
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepoteData\bin\Debug\netstandard2.0\eStudioLjepoteData.pdb
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.csprojAssemblyReference.cache
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.csproj.CoreCompileInputs.cache
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.AssemblyInfoInputs.cache
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.AssemblyInfo.cs
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.dll
+C:\Users\enida\Desktop\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.pdb
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepoteData\bin\Debug\netstandard2.0\eStudioLjepoteData.deps.json
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepoteData\bin\Debug\netstandard2.0\eStudioLjepoteData.dll
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepoteData\bin\Debug\netstandard2.0\eStudioLjepoteData.pdb
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.csprojAssemblyReference.cache
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.csproj.CoreCompileInputs.cache
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.AssemblyInfoInputs.cache
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.AssemblyInfo.cs
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.dll
+C:\Users\enida\Desktop\backup\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.pdb
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepoteData\bin\Debug\netstandard2.0\eStudioLjepoteData.deps.json
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepoteData\bin\Debug\netstandard2.0\eStudioLjepoteData.dll
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepoteData\bin\Debug\netstandard2.0\eStudioLjepoteData.pdb
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.csprojAssemblyReference.cache
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.csproj.CoreCompileInputs.cache
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.AssemblyInfoInputs.cache
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.AssemblyInfo.cs
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.dll
+C:\Users\enida\Desktop\Nova mapa\backup\eStudioLjepote\eStudioLjepoteData\obj\Debug\netstandard2.0\eStudioLjepoteData.pdb

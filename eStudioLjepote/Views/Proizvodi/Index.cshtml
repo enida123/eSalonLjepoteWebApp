@@ -1,0 +1,10 @@
+﻿@model ProizvodiListVM
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="row">
+    @foreach (var proizvod in Model.Proizvodi)
+    {
+        @Html.Partial("ProizvodiPartial", proizvod)
+    }
+</div>

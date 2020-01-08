@@ -1,0 +1,13 @@
+﻿@model EdukacijaListViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="row">
+    @foreach (var edukacija in Model.Edukacija)
+    {
+        @Html.Partial("EdukacijaPartial", edukacija)
+
+
+    }
+</div>
+
